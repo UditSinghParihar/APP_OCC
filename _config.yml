@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: APP_OCC
-description: Estimating Appearance and Occupancy Information in Bird's Eye View From Surround Monocular Images
+# description: Estimating Appearance and Occupancy Information in Bird's Eye View From Surround Monocular Images
 github:
   is_project_page: false
